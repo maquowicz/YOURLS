@@ -9,8 +9,9 @@ function yourls_html_logo() {
 	?>
 	<header role="banner">
 	<h1>
-		<a href="<?php echo yourls_admin_url( 'index.php' ) ?>" title="YOURLS"><span>YOURLS</span>: <span>Y</span>our <span>O</span>wn <span>URL</span> <span>S</span>hortener<br/>
-		<img src="<?php yourls_site_url(); ?>/images/logo.png" alt="YOURLS" title="YOURLS" border="0" style="border: 0px;" /></a>
+		<a href="<?php echo yourls_admin_url( 'index.php' ) ?>" title="YOURLS">
+		<img src="<?php yourls_site_url(); ?>/images/logo.png" alt="YOURLS" title="YOURLS" border="0" style="border: 0px;" />
+		</a>
 	</h1>
 	</header>
 	<?php
