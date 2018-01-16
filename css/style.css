@@ -252,16 +252,10 @@ a.bookmarklet:hover {
 	background:white;
 	margin:0 auto;
 	max-width:950px;
-	-moz-border-radius:10px;
-	-webkit-border-radius:10px;
-	border-radius:10px;
-	border:2px solid #2a85b3;
-	-moz-border-radius-bottomleft:30px;
-	-moz-border-radius-bottomright:30px;
-	-webkit-border-bottom-left-radius:25px;
-	-webkit-border-bottom-right-radius:25px;
-	border-bottom-left-radius:25px;
-	border-bottom-right-radius:25px;
+	border: 3px solid #4D7EC1;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
 }
 #footer p a {
 	background:#fff url(../images/favicon.gif) 2px center no-repeat;
