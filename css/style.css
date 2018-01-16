@@ -67,8 +67,8 @@ input, textarea {
 	border-radius:3px;
 }
 Input.text, select, textarea {
-	font-family: Verdana, Arial;
-	font-size: 10px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
 	color: #595441;
 	background-color: #FFFFFF;
 	border: 1px solid #88c0eb;
