@@ -75,8 +75,8 @@ Input.text, select, textarea {
 	margin:1px;
 }
 input.button {
-	font-family: Verdana, Arial;
-	font-size: 10px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
 	color: #595441;
 	font-weight: bold;
 	background-color: #FFFFFF;
