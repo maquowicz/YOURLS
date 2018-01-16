@@ -248,10 +248,10 @@ a.bookmarklet:hover {
 	margin-top:20px;
 }
 #footer p {
-	padding:10px;
+	padding: 10px 20px;
 	background:white;
 	margin:0 auto;
-	max-width:950px;
+	max-width: 950px;
 	border: 3px solid #4D7EC1;
 	-moz-border-radius:4px;
 	-webkit-border-radius:4px;
